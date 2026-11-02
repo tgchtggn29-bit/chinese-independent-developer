@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 3 号添加
+
+#### Kenny(广州) - [Github](https://github.com/tgchtggn29-bit)
+* :white_check_mark: [Lanyard Badge Studio 工牌工作室](https://rawcdn.githack.com/tgchtggn29-bit/lanyard-badge-studio/6ed9f7289744352adbabb7944ea3ef797f48e252/studio/index.html)：公司 / 活动工牌在线设计工具，填品牌色和 Logo 就能拖拽、翻面预览 3D 挂绳工牌，一键下载海报、名片和带裁切线的印刷 PDF，还送一段 8 秒工牌展示视频，免费无需注册 - [开源仓库](https://github.com/tgchtggn29-bit/lanyard-badge-studio)
+
 ### 2026 年 11 月 2 号添加
 
 #### 88slash(北京) - [Github](https://github.com/88slash)
